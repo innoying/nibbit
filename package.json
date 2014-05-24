@@ -21,7 +21,7 @@
   ],
   "main": "./lib/index",
   "dependencies": {
-    "bigint": "0.3.x",
+    "bigint": "0.4.x",
     "binary": "0.3.x"
   },
   "devDependencies": {
